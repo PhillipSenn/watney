@@ -77,7 +77,7 @@ Displays the current karma giving leaderboard.
 
 ### ?term
 
-Lookup CMFL tags or functions, or any term for which a custom description has been provided.
+Lookup CFML tags or functions, or any term for which a custom description has been provided.
 
 ### !lookup -export [md|markdown|text|json]
 
